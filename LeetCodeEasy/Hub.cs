@@ -4,8 +4,8 @@
 //using LeetCode.Easy.RomanToInteger;
 // using LeetCode.Easy.LongestCommonPrefix;
 // using LeetCode.Easy.ValidParentheses;
-using LeetCodeEasy.Easy.MergeTwoSortedList;
-//using LeetCode.Easy.RemoveDuplicatesfromSortedArray;
+//using LeetCodeEasy.Easy.MergeTwoSortedList;
+using LeetCode.Easy.RemoveDuplicatesfromSortedArray;
 //using LeetCode.Easy.RemoveElement;
 namespace LeetCodeEasy
 {
