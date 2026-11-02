@@ -5,8 +5,8 @@
 // using LeetCode.Easy.LongestCommonPrefix;
 // using LeetCode.Easy.ValidParentheses;
 //using LeetCodeEasy.Easy.MergeTwoSortedList;
-using LeetCode.Easy.RemoveDuplicatesfromSortedArray;
-//using LeetCode.Easy.RemoveElement;
+//using LeetCode.Easy.RemoveDuplicatesfromSortedArray;
+using LeetCode.Easy.RemoveElement;
 namespace LeetCodeEasy
 {
     public class Hub
