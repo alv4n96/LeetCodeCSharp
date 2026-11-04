@@ -1,0 +1,23 @@
+
+# .NET build output
+**/bin/
+**/obj/
+**/TestResults/
+
+# Visual Studio
+.vs/
+**/.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Editor and OS files
+.vscode/
+Thumbs.db
+.DS_Store
