@@ -56,7 +56,7 @@ namespace LeetCodeEasy.AddTwoNumbers
             ListNode? result = null;
             ListNode? current = null;
             int tempResult = 0;
-            while ((l1 != null || l2 != null) || tempResult != 0)
+            while (l1 != null || l2 != null || tempResult != 0)
             {
                 int resultOperation = (l1 == null ? 0 : l1.val) + (l2 == null ? 0 : l2.val) + tempResult;
                 int digit = resultOperation % 10;
@@ -66,8 +66,8 @@ namespace LeetCodeEasy.AddTwoNumbers
 
                 if (result == null)
                 {
-                    result = newNode;
                     current = newNode;
+                    result = current;
                 }
                 else
                 {
