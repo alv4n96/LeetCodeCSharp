@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../LeetCodeEasy/LeetCodeEasy.csproj" />
+  <Project Path="LeetCodeMain.csproj" />
+</Solution>
