@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LeetCodeEasy.AddTwoNumbers
+namespace LeetCode.Medium.AddTwoNumbers
 {
     public class Solve
     {
@@ -66,8 +66,8 @@ namespace LeetCodeEasy.AddTwoNumbers
 
                 if (result == null)
                 {
-                    current = newNode;
-                    result = current;
+                    result = newNode;
+                    current = result;
                 }
                 else
                 {

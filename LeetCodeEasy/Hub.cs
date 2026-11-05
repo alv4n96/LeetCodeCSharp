@@ -1,6 +1,8 @@
 ﻿//using LeetCodeEasy.TwoSum;
+//using LeetCodeEasy.AddTwoNumbers;
 
-using LeetCodeEasy.AddTwoNumbers;
+
+using LeetCode.Easy.PalindromNumber;
 
 namespace LeetCodeEasy
 {

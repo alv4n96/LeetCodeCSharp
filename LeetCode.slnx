@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="LeetCode/LeetCodeMain.csproj" />
-  <Project Path="LeetCodeEasy/LeetCodeEasy.csproj" />
+  <Project Path="LeetCode/Client.csproj" />
+  <Project Path="LeetCodeEasy/LeetCode.csproj" />
 </Solution>
