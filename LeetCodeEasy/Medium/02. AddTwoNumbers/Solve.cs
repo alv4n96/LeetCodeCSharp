@@ -54,7 +54,7 @@ namespace LeetCode.Medium.AddTwoNumbers
         private static ListNode addTwoNumbers(ListNode l1, ListNode l2)
         {
             ListNode? result = null;
-            ListNode? current = null;
+            ListNode? tail = null;
             int tempResult = 0;
             while (l1 != null || l2 != null || tempResult != 0)
             {
@@ -67,12 +67,12 @@ namespace LeetCode.Medium.AddTwoNumbers
                 if (result == null)
                 {
                     result = newNode;
-                    current = result;
+                    tail = result;
                 }
                 else
                 {
-                    current.next = newNode;
-                    current = current.next;
+                    tail.next = newNode;
+                    tail = tail.next;
                 }
 
 
