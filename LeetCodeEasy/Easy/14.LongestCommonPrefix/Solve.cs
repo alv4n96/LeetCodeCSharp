@@ -31,7 +31,7 @@ namespace LeetCode.Easy.LongestCommonPrefix
 
         private static string longestCommonPrefix(string[] strs)
         {
-            string result = null!;
+            string result = "";
             int longestText = strs[0].Length;
             int endData = strs.Length;
             int loop = 0;
@@ -66,7 +66,7 @@ namespace LeetCode.Easy.LongestCommonPrefix
                 loop++;
             }
 
-            return result ?? "";
+            return result;
         }
     }
 }
