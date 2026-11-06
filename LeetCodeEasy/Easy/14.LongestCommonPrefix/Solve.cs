@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace LeetCode.Easy.LongestCommonPrefix
 {
