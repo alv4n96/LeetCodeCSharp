@@ -7,7 +7,8 @@
 //using LeetCodeEasy.Easy.MergeTwoSortedList;
 //using LeetCode.Easy.RemoveDuplicatesfromSortedArray;
 //using LeetCode.Easy.RemoveElement;
-using LeetCode.Easy.FindtheIndexoftheFirstOccurrenceinaString;
+//using LeetCode.Easy.FindtheIndexoftheFirstOccurrenceinaString;
+using LeetCode.Easy.SearchInsertPosition;
 namespace LeetCodeEasy
 {
     public class Hub
