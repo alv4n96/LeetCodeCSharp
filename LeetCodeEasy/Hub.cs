@@ -8,7 +8,8 @@
 //using LeetCode.Easy.RemoveDuplicatesfromSortedArray;
 //using LeetCode.Easy.RemoveElement;
 //using LeetCode.Easy.FindtheIndexoftheFirstOccurrenceinaString;
-using LeetCode.Easy.SearchInsertPosition;
+//using LeetCode.Easy.SearchInsertPosition;
+using LeetCode.Easy.LengthofLastWord;
 namespace LeetCodeEasy
 {
     public class Hub
