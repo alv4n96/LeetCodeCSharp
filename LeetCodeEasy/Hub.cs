@@ -10,7 +10,8 @@
 //using LeetCode.Easy.FindtheIndexoftheFirstOccurrenceinaString;
 //using LeetCode.Easy.SearchInsertPosition;
 //using LeetCode.Easy.LengthofLastWord;
-using LeetCode.Easy.PlusOne;
+//using LeetCode.Easy.PlusOne;
+using LeetCode.Easy.AddBinary;
 namespace LeetCodeEasy
 {
     public class Hub
